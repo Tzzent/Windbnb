@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Windbnb/static/css/main.28523d1d.css",
-    "main.js": "/Windbnb/static/js/main.edb11238.js",
+    "main.js": "/Windbnb/static/js/main.ef997082.js",
     "static/media/logo.svg": "/Windbnb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Windbnb/index.html",
     "main.28523d1d.css.map": "/Windbnb/static/css/main.28523d1d.css.map",
-    "main.edb11238.js.map": "/Windbnb/static/js/main.edb11238.js.map"
+    "main.ef997082.js.map": "/Windbnb/static/js/main.ef997082.js.map"
   },
   "entrypoints": [
     "static/css/main.28523d1d.css",
-    "static/js/main.edb11238.js"
+    "static/js/main.ef997082.js"
   ]
 }
