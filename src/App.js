@@ -11,7 +11,7 @@ function App() {
   const [updateStays, setUpdateStays] = useState([]);
 
   useEffect(() => {
-    fetch('../api/stays.json')
+    fetch('api/stays.json')
       .then((res) => res.json())
       .then((data) => { setStays(data); setUpdateStays(data); })
   }, []);
